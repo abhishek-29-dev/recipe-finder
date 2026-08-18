@@ -36,4 +36,4 @@ Then open the local URL Vite prints in the terminal (usually `http://localhost:5
 
 ## Live demo
 
-[Add your deployed link here after pushing to Vercel or Netlify]
+   [https://recipe-finder-abhi-64da.vercel.app](https://recipe-finder-abhi-64da.vercel.app)
