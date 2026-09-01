@@ -1,1 +1,38 @@
 @import "tailwindcss";
+
+/* The Ember Kitchen — artisan warm palette.
+   Terracotta "ember" primary, deep "sage" green accent,
+   cozy cream surfaces and warm ink text. */
+@theme {
+  /* Ember: warm terracotta / clay */
+  --color-ember-50: #fbf1ec;
+  --color-ember-100: #f6e0d5;
+  --color-ember-200: #edc2ab;
+  --color-ember-300: #e19e7c;
+  --color-ember-400: #d4734c;
+  --color-ember-500: #c65a30;
+  --color-ember-600: #b04a27;
+  --color-ember-700: #933823;
+  --color-ember-800: #752d1f;
+  --color-ember-900: #5f281c;
+
+  /* Sage: deep leafy green accent */
+  --color-sage-50: #f3f5f0;
+  --color-sage-100: #e3e8dc;
+  --color-sage-200: #c6d0b9;
+  --color-sage-300: #a4b392;
+  --color-sage-400: #81956d;
+  --color-sage-500: #667a52;
+  --color-sage-600: #506040;
+  --color-sage-700: #3f4c33;
+  --color-sage-800: #343e2b;
+  --color-sage-900: #2c3426;
+
+  /* Warm paper surfaces */
+  --color-cream: #faf5ee;
+  --color-cream-deep: #f2e9dd;
+
+  /* Warm dark text */
+  --color-ink: #2b241c;
+  --color-ink-soft: #6b6155;
+}
